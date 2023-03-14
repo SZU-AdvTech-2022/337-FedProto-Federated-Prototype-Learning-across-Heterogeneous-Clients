@@ -1,0 +1,9 @@
+@inproceedings{REPO-338,
+    author = "Tan, Yue and Long, Guodong and Liu, Lu and Zhou, Tianyi and Lu, Qinghua and Jiang, Jing and Zhang, Chengqi",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "8",
+    pages = "8432--8440",
+    title = "{FedProto: Federated Prototype Learning across Heterogeneous Clients}",
+    volume = "36",
+    year = "2022"
+}
